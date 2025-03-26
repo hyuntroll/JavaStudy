@@ -1,5 +1,7 @@
 package Chapter_01;
 
+// constants: 상수
+
 public class _06_constants {
 
     public static void main(String[] args) {
