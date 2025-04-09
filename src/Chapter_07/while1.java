@@ -16,5 +16,7 @@ public class while1 {
             System.out.println(count);
         }
 
+
+
     }
 }
