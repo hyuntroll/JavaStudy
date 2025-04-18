@@ -14,8 +14,10 @@ public class Person {
     }
 
     public static void main(String[] args) {
-        Person p1;
-        p1 = new Person("엄준식", 234);
+        Person p1; // 객체 생성
+        p1 = new Person("엄준식", 19); // 인스턴스 생성
         p1.talk();
+
+
     }
 }

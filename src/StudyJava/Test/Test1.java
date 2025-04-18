@@ -1,10 +1,10 @@
 package StudyJava.Test;
 
 /*
-*     제어자	같은 클래스	같은 패키지	자식 클래스	외부 클래스
+*     제어자	같은 클래스	같은 패키지	자식 클래스	외부 클래스 | 다른 패키지
 private	✅	❌	❌	❌
 (default)	✅	✅	❌	❌
-protected	✅	✅	✅	❌
+protected	✅	✅	✅	❌  상속받은거라면 가능하긴 함
 public	✅	✅	✅	✅
 *
 *
