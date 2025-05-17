@@ -15,7 +15,7 @@ public class _02_String2 {
         System.out.println(s.substring(s.indexOf("but")));
 
         // 시작위치는 포함하지만, 끝 위치 직전까지 잘라냄
-        System.out.println(s.substring(s.indexOf("Python"), s.lastIndexOf("Python")));
+        System.out.println("ㅎㅇ " + s.substring(s.indexOf("Python"), s.lastIndexOf("Python")));
 
         s = "      I love String.    ";
         System.out.println(s);
